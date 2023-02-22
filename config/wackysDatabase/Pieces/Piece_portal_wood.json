@@ -1,0 +1,20 @@
+{
+    "name": "portal_wood",
+    "m_name": "$piece_portal",
+    "m_description": "$piece_portal_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "GreydwarfEye:10:1:True",
+        "FineWood:20:1:True",
+        "SurtlingCore:2:1:True"
+    ]
+}

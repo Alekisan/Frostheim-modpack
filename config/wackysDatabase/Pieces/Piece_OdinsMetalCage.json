@@ -1,0 +1,19 @@
+{
+    "name": "OdinsMetalCage",
+    "m_name": "$piece_OdinsMetalCage",
+    "m_description": "$piece_OdinsMetalCage_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "BlackMetal:4:1:True",
+        "Iron:4:1:True"
+    ]
+}

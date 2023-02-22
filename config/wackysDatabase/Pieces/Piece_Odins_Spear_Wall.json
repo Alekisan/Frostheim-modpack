@@ -1,0 +1,19 @@
+{
+    "name": "Odins_Spear_Wall",
+    "m_name": "$piece_Odins_Spear_Wall",
+    "m_description": "$piece_Odins_Spear_Wall_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "BlackMetal:4:1:True",
+        "Wood:6:1:True"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "name": "guard_stone",
+    "m_name": "$piece_guardstone",
+    "m_description": "$piece_guardstone_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "FineWood:5:1:True",
+        "GreydwarfEye:5:1:True",
+        "SurtlingCore:1:1:True"
+    ]
+}

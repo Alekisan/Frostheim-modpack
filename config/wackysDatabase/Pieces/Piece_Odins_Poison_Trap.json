@@ -1,0 +1,19 @@
+{
+    "name": "Odins_Poison_Trap",
+    "m_name": "$piece_Odins_Poison_Trap",
+    "m_description": "$piece_Odins_Poison_Trap_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "Unplaced_Metal_Trap:1:1:True",
+        "Ooze:1:1:True"
+    ]
+}

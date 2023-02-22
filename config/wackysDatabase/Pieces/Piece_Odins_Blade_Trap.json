@@ -1,0 +1,19 @@
+{
+    "name": "Odins_Blade_Trap",
+    "m_name": "$piece_Odins_Blade_Trap",
+    "m_description": "$piece_Odins_Blade_Trap_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": true,
+    "reqs": [
+        "BlackMetal:2:1:True",
+        "Wood:6:1:True"
+    ]
+}

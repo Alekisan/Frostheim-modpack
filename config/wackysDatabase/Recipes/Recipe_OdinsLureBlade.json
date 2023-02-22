@@ -1,0 +1,13 @@
+{
+    "name": "OdinsLureBlade",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Wood:6666666:0:True",
+        "Iron:2222222:0:True"
+    ]
+}

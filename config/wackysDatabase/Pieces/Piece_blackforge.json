@@ -1,0 +1,21 @@
+{
+    "name": "blackforge",
+    "m_name": "$piece_blackforge",
+    "m_description": "$piece_craftingstation",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "BlackMarble:10:1:True",
+        "YggdrasilWood:10:1:True",
+        "BlackCore:5:1:True",
+	  "YagluthDrop:1:0:True"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "piece_magetable",
+    "m_name": "$piece_magetable",
+    "m_description": "$piece_craftingstation",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "YggdrasilWood:20:1:True",
+        "BlackMetal:10:1:True",
+        "BlackCore:5:1:True",
+        "Eitr:5:1:True",
+	  "YagluthDrop:1:0:True"
+    ]
+}

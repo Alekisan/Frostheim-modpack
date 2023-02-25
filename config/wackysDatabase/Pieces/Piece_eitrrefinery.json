@@ -1,0 +1,23 @@
+{
+    "name": "eitrrefinery",
+    "m_name": "$piece_eitrrefinery",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "BlackMarble:20:1:True",
+        "BlackMetal:5:1:True",
+        "YggdrasilWood:10:1:True",
+        "BlackCore:5:1:True",
+        "Sap:3:1:True",
+	  "YagluthDrop:1:0:True"
+    ]
+}

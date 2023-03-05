@@ -1,0 +1,15 @@
+{
+    "name": "TorchOlympia",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "HelmetYule:1:1:True",
+        "Flametal:70:1:True",
+        "YagluthDrop:100:1:True",
+        "YmirRemains:20:1:True"
+    ]
+}

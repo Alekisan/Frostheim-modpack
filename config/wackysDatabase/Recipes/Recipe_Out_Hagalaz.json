@@ -1,0 +1,14 @@
+{
+    "name": "Out_Hagalaz",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_stonecutter",
+    "minStationLevel": 100,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Stone:30:0:True",
+        "SurtlingCore:4:0:True",
+        "Out_VoidOrb:100:0:True"
+    ]
+}

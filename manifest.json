@@ -1,6 +1,6 @@
 {
     "name": "Raven_Born_modpack",
-    "version_number": "1.0.11",
+    "version_number": "1.0.12",
     "website_url": "https://discord.gg/A7yytWjN",
     "description": "Modpack for the Raven Born Valheim community",
     "dependencies": [
@@ -35,7 +35,6 @@
         "OdinPlus-BuildIt-1.6.3",
         "OdinPlus-Clutter-0.1.3",
         "OdinPlus-OdinCampsite-1.4.0",
-        "OdinPlus-OdinHorse-1.1.5",
         "OdinPlus-OdinsBarrelRide-1.0.4",
         "OdinPlus-OdinsTraps-1.1.8",
         "OdinPlus-PotionPlus-4.1.9",
